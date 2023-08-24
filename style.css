@@ -2,7 +2,7 @@
        background: rgb(42, 0, 249);
        color: rgb(45, 45, 45);
        padding: 10px;
-       font-family: arial;
+       font-family: cursive;
    }
    #all-contents {
      max-width: 800px;
@@ -11,11 +11,12 @@
 
    /* navigation menu */
    nav {
-       background: rgba(171, 87, 35, 0.884);
+       background: rgba(69, 179, 151, 0.884);
       margin: 0 auto;
       margin-bottom: 20px;
        display: flex;
        padding: 10px;
+       
    }
    h1 {
        display: flex;
