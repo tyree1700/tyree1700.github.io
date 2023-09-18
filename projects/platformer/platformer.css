@@ -3,7 +3,8 @@ body {
 }
 
 canvas {
-  background-color: lightgray;
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxv7InY2qfLON6Gqulbhx0K9qF84sec0UUQ&usqp=CAU");
+background-size:100%;
 }
 
 img {
